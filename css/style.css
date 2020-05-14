@@ -1,8 +1,5 @@
 /*
-Merlin - Responsive One Page Template
-Version: 1.0
-By: Hasan Alibegic, hasan461@gmail.com
-License: Apache License v2.0
+Mbuh lah karepmu
 */
 
 html {
@@ -234,7 +231,7 @@ a:focus {
     z-index: 1;
 }
 
-#home {
+#beranda {
     padding: 0;
     color: #fff;
     background-image: url(../img/cover/home.jpg);
@@ -243,25 +240,25 @@ a:focus {
     background-size: cover;
 }
 
-#home h1 {
+#beranda h1 {
     font-size: 4rem;
     line-height: 1;
 }
 
-#services {
+#pelayanan {
     background: #f5f5f5;
     border-bottom: 1px solid #e7e7e7;
 }
 
-#services .service i {
+#pelayanan .service i {
     margin-top: 4rem;
 }
 
-#services .service:hover i {
+#pelayanan .service:hover i {
     color: #f5b76a;
 }
 
-#work .heading p {
+#proyeksi .heading p {
     margin-bottom: 4rem;
 }
 
@@ -339,7 +336,7 @@ a:focus {
     transform: scale(1.1);
 }
 
-#clients {
+#aparatur {
     color: #fff;
     background: #233b6f;
 }
@@ -392,20 +389,20 @@ a:focus {
     border-color: #fff;
 }
 
-#about .content {
+#tentang .content {
     margin-bottom: 0;
 }
 
-#about .teammate {
+#tentang .teammate {
     margin-top: 4rem;
     margin-bottom: 4rem;
 }
 
-#about .teammate .profile-photo {
+#tentang .teammate .profile-photo {
     overflow: hidden;
 }
 
-#about .teammate .profile-photo img {
+#tentang .teammate .profile-photo img {
     -webkit-transition: all .4s ease;
     -moz-transition: all .4s ease;
     -ms-transition: all .4s ease;
@@ -413,8 +410,8 @@ a:focus {
     transition: all .4s ease;
 }
 
-#about .teammate:hover .profile-photo img,
-#about .teammate:focus .profile-photo img {
+#tentang .teammate:hover .profile-photo img,
+#tentang .teammate:focus .profile-photo img {
     -webkit-transform: scale(1.1);
     -moz-transform: scale(1.1);
     -ms-transform: scale(1.1);
@@ -422,46 +419,46 @@ a:focus {
     transform: scale(1.1);
 }
 
-#about .teammate .bio .border {
+#tentang .teammate .bio .border {
     height: 1px;
 }
 
-#about .teammate .bio ul {
+#tentang .teammate .bio ul {
     margin-bottom: 0;
 }
 
-#about .teammate .bio a {
+#tentang .teammate .bio a {
     color: #666;
 }
 
-#about .teammate .bio a:hover,
-#about .teammate .bio a:focus {
+#tentang .teammate .bio a:hover,
+#tentang .teammate .bio a:focus {
     color: #222;
 }
 
-#contact {
+#narahubung {
     background: url(../img/cover/contact.jpg);
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
 }
 
-#contact,
-#contact a,
-#contact a:hover,
-#contact a:focus {
+#narahubung,
+#narahubung a,
+#narahubung a:hover,
+#narahubung a:focus {
     color: #fff
 }
 
-#contact .heading .border {
+#narahubung .heading .border {
     background: #fff
 }
 
-#contact a {
+#narahubung a {
     display: block;
 }
 
-#contact i {
+#narahubung i {
     margin: 4rem 0 1rem;
 }
 
