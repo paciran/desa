@@ -234,7 +234,7 @@ a:focus {
 #beranda {
     padding: 0;
     color: #fff;
-    background-image: url(../img/cover/home.jpg);
+    background-image: url(https://halibegic.github.io/merlin/img/cover/home.jpg);
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
@@ -437,7 +437,7 @@ a:focus {
 }
 
 #narahubung {
-    background: url(../img/cover/contact.jpg);
+    background: url(https://halibegic.github.io/merlin/img/cover/contact.jpg);
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
